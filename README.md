@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:1d4ed8,100:06b6d4&text=Deywyson%20Carlos&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Analista%20de%20Sistemas%20%7C%20Estudante%20de%20Sistemas%20de%20Informação&descAlignY=61&descSize=17&animation=fadeIn" alt="Banner de Deywyson Carlos" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:1d4ed8,100:06b6d4&text=Deywyson%20Carlos&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Suporte%20de%20TI%20%7C%20Estudante%20de%20Engenharia%20da%20Computa%C3%A7%C3%A3o&descAlignY=61&descSize=17&animation=fadeIn" alt="Banner de Deywyson Carlos" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=06B6D4&center=true&vCenter=true&width=760&lines=Transformando+ideias+em+soluções;Construindo+meu+caminho+na+tecnologia;Jogos%2C+código+e+aprendizado+contínuo" alt="Animação de apresentação" />
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:1d4ed8,100:06b6d4&text=Apps%20%7C%20Sites%20%7C%20Programas&fontColor=ffffff&fontSize=24&animation=twinkling&fontAlignY=50" alt="Animação de apresentação" />
 </a>
 
 <p>
@@ -20,13 +20,13 @@ Sou **Deywyson Carlos Machado Leite**, estudante de **Engenharia da Computação
 
 - 🎓 **Engenharia da Computação:** 2º ano de um curso de 5 anos
 - 📚 **Formação complementar:** 1 semestre de Técnico em Análise e Desenvolvimento de Sistemas
-- 💼 **Atualmente:** trabalho na **Ocian Sistemas**, empresa que desenvolve softwares para cartórios no Brasil
+- 💼 **Atualmente:** contratado como **suporte de TI** na **Ocian Sistemas**, empresa que desenvolve softwares para cartórios no Brasil
 - 📍 **Onde estou:** Barra Bonita — SP · natural de Campos dos Goytacazes — RJ
 - 🎮 **Interesses:** programação, jogos, backend, APIs e aprendizado contínuo
 
 ## O que estou construindo
 
-No momento, estou fortalecendo minha base em desenvolvimento backend, APIs e bancos de dados por meio de projetos práticos e estudos no freeCodeCamp. Meu objetivo é evoluir como engenheiro de software e criar produtos que tenham impacto no dia a dia das pessoas.
+Atualmente, estou desenvolvendo e aprimorando projetos próprios e estudos práticos em diferentes formatos: **aplicativos, sites e programas**, com foco em backend, APIs, bancos de dados e experiências simples de usar. Também mantenho projetos do freeCodeCamp para consolidar minha base e transformar ideias em soluções reais.
 
 ## Tecnologias em evolução
 
