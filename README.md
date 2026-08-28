@@ -26,7 +26,7 @@ Sou **Deywyson Carlos Machado Leite**, estudante de **Engenharia da Computação
 
 ## O que estou construindo
 
-Atualmente, estou desenvolvendo e aprimorando projetos próprios e estudos práticos em diferentes formatos: **aplicativos, sites e programas**, com foco em backend, APIs, bancos de dados e experiências simples de usar. Também mantenho projetos do freeCodeCamp para consolidar minha base e transformar ideias em soluções reais.
+Atualmente, estou desenvolvendo e aprimorando projetos próprios e estudos práticos em diferentes formatos: **aplicativos, sites e programas**, com foco em backend, APIs, bancos de dados e experiências simples de usar.
 
 ## Tecnologias em evolução
 
@@ -51,23 +51,15 @@ Atualmente, estou desenvolvendo e aprimorando projetos próprios e estudos prát
 | [Back-End Development and APIs](https://github.com/cdeywyson3-star/back-end-development-and-apis) | APIs, Express e desenvolvimento backend |
 | [freeCodeCamp Backend Projects](https://github.com/cdeywyson3-star/freecodecamp-backend-projects) | Organização dos estudos e exercícios |
 
-## Animações de contribuições
+## Minha atividade no GitHub
 
-O **Pac-Man** dá um toque arcade ao histórico, enquanto a **cobrinha** percorre minhas contribuições. As duas animações são atualizadas automaticamente pelo GitHub Actions.
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cdeywyson3-star/cdeywyson3-star/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cdeywyson3-star/cdeywyson3-star/output/pacman-contribution-graph.svg" />
-    <img alt="Pac-Man percorrendo meu gráfico de contribuições" src="https://raw.githubusercontent.com/cdeywyson3-star/cdeywyson3-star/output/pacman-contribution-graph.svg" />
-  </picture>
-</p>
+Uma **cobrinha personalizada** percorre meu histórico de contribuições e é atualizada automaticamente pelo GitHub Actions.
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cdeywyson3-star/cdeywyson3-star/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cdeywyson3-star/cdeywyson3-star/output/github-contribution-grid-snake.svg" />
-    <img alt="Cobrinha percorrendo meu gráfico de contribuições" src="https://raw.githubusercontent.com/cdeywyson3-star/cdeywyson3-star/output/github-contribution-grid-snake.svg" />
+    <img width="100%" alt="Cobrinha personalizada percorrendo meu gráfico de contribuições" src="https://raw.githubusercontent.com/cdeywyson3-star/cdeywyson3-star/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
@@ -75,8 +67,9 @@ O **Pac-Man** dá um toque arcade ao histórico, enquanto a **cobrinha** percorr
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=cdeywyson3-star&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdeywyson3-star&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cdeywyson3-star&theme=tokyonight" alt="Resumo da atividade no GitHub" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cdeywyson3-star&theme=tokyonight" alt="Estatísticas do GitHub" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cdeywyson3-star&theme=tokyonight" alt="Linguagens por repositório" />
 
 </div>
 
