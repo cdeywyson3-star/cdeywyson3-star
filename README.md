@@ -51,6 +51,26 @@ Atualmente, estou desenvolvendo e aprimorando projetos próprios e estudos prát
 | [Back-End Development and APIs](https://github.com/cdeywyson3-star/back-end-development-and-apis) | APIs, Express e desenvolvimento backend |
 | [freeCodeCamp Backend Projects](https://github.com/cdeywyson3-star/freecodecamp-backend-projects) | Organização dos estudos e exercícios |
 
+## Animações de contribuições
+
+O **Pac-Man** dá um toque arcade ao histórico, enquanto a **cobrinha** percorre minhas contribuições. As duas animações são atualizadas automaticamente pelo GitHub Actions.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cdeywyson3-star/cdeywyson3-star/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cdeywyson3-star/cdeywyson3-star/output/pacman-contribution-graph.svg" />
+    <img alt="Pac-Man percorrendo meu gráfico de contribuições" src="https://raw.githubusercontent.com/cdeywyson3-star/cdeywyson3-star/output/pacman-contribution-graph.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cdeywyson3-star/cdeywyson3-star/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cdeywyson3-star/cdeywyson3-star/output/github-contribution-grid-snake.svg" />
+    <img alt="Cobrinha percorrendo meu gráfico de contribuições" src="https://raw.githubusercontent.com/cdeywyson3-star/cdeywyson3-star/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 ## GitHub em números
 
 <div align="center">
