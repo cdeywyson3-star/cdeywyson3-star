@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:1d4ed8,100:06b6d4&text=Deywyson%20Carlos&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=IT%20Support%20%7C%20Computer%20Engineering%20Student&descAlignY=61&descSize=17&animation=fadeIn" alt="Deywyson Carlos banner" />
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
+<a href="https://github.com/kyechan99/capsule-render">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:1d4ed8,100:06b6d4&text=Apps%20%7C%20Websites%20%7C%20Programs&fontColor=ffffff&fontSize=24&animation=twinkling&fontAlignY=50" alt="Presentation animation" />
 </a>
 
